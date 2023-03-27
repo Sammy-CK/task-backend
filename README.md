@@ -1,13 +1,15 @@
 # phase-4-Task-Taker
 This is a simple RESTful API for tracking users and their tasks. It is built with Ruby on Rails.
 
-It also has a frontend in the client folder built using React
+It also has a frontend repository built using React
+        https://github.com/Sammy-CK/task-taker
 
+        
 We have two models: User and Task.
 
 
 ## Use this link to access the api and add endpoints to perform requests:
-        https://hero-p4fk.onrender.com/heroes
+        https://task-201f.onrender.com
 
 ## Models
 
@@ -74,12 +76,12 @@ To use this repo on your machine requires some simple steps
 - Open a terminal / command line interface on your computer
 - Clone the repo by using the following:
 
-        git@github.com:Sammy-CK/task-taker.git
+        git@github.com:Sammy-CK/task-backend.git
 
 - Be patient as it creates a copy on your local machine for you.
 - Change directory to the repo folder:
 
-        cd task-taker
+        cd task-backend
 
 - (Optional) Open it in ``Visual Studio Code``
 
@@ -94,7 +96,7 @@ To use this repo on your machine requires some simple steps
 - Take on the process in ``Alternative One`` above.
 - Remember to replace your username when cloning.
 
-        git clone https://github.com/your-username-here/task-taker
+        git clone https://github.com/your-username-here/task-backend
 
 
 # Running the application
